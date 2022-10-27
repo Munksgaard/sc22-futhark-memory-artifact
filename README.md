@@ -1,3 +1,7 @@
+**Deprecated!** You want to look at
+[diku-dk/futhark-mem-sc22](https://github.com/diku-dk/futhark-mem-sc22) instead.
+
+
 # sc22-futhark-memory-artifact
 
 ## Manifest
